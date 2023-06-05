@@ -1,2 +1,1 @@
-# Prepcourse-Henry-real
-Este es un repositorios con las apps funcionando bien
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
